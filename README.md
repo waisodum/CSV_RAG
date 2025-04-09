@@ -93,7 +93,7 @@ class CollectionInfo(BaseModel):
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/CSV_RAG.git
+   git clone https://github.com/waisodum/CSV_RAG.git
    ```
     and go inside the folder 
 2. Create a virtual environment:
