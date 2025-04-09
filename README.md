@@ -57,15 +57,15 @@ This would make the system fully open source while maintaining the core RAG func
 
 
 ### File Upload and Preview
-![File Upload and Preview](path/to/Screenshot_2025-04-09_054411.png)
+![File Upload and Preview](Screenshot_2025-04-09_054411.png)
 *CSV file validation and preview before uploading*
 
 ### File Management
-![File Management](path/to/Screenshot_2025-04-09_054502.png)
+![File Management](Screenshot_2025-04-09_054502.png)
 *Manage uploaded files with easy access to viewing and deletion*
 
 ### Data Query Interface
-![Data Query Interface](path/to/Screenshot_2025-04-09_054521.png)
+![Data Query Interface](Screenshot_2025-04-09_054521.png)
 *Ask questions about your CSV data in natural language*
 
 ## Pydantic Models
