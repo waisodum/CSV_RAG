@@ -53,10 +53,6 @@ To use an open source model instead of Gemini:
 This would make the system fully open source while maintaining the core RAG functionality for CSV data querying.
 
 
-## Screenshots
-
-*[Add screenshots of your Streamlit application here]*
-
 ## Pydantic Models
 
 The application uses Pydantic models for data validation and API documentation:
