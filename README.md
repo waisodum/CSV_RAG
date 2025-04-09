@@ -93,10 +93,9 @@ class CollectionInfo(BaseModel):
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/rag-csv-query-solver.git
-   cd rag-csv-query-solver
+   git clone https://github.com/yourusername/CSV_RAG.git
    ```
-
+    and go inside the folder 
 2. Create a virtual environment:
    ```bash
    python -m venv venv
